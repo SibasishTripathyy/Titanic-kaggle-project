@@ -9,6 +9,8 @@ This problem's solution has been submitted as a project work.
 ## Viewing the notebook
 You can view my notebook directly by clicking the file with .ipynb extension or go to http://nbviewer.jupyter.org/ and paste the URL of the notebook.
 
+Notebook URL:- https://github.com/SibasishTripathyy/Titanic-kaggle-project/blob/master/TITANIC%20DISASTER%20PROBLEM.ipynb
+
 ## Breif Description
 
 I have done the whole project using python.<br>
