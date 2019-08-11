@@ -23,7 +23,7 @@ I have used Support Vector Machine algorithm to predict the survival of the pass
   <li>Numpy</li>
   <li>Pandas</li>
   <li>SciKit-Learn</li>
-  <li>Matplotlit</li>
+  <li>Matplotlib</li>
   <li>Seaborn</li>
   
 </ul>
